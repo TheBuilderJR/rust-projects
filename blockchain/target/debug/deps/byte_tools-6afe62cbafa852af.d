@@ -1,0 +1,11 @@
+/Users/bobren/projects/rust/blockchain/target/debug/deps/byte_tools-6afe62cbafa852af.rmeta: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_single.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_single.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_slice.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_slice.rs
+
+/Users/bobren/projects/rust/blockchain/target/debug/deps/libbyte_tools-6afe62cbafa852af.rlib: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_single.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_single.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_slice.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_slice.rs
+
+/Users/bobren/projects/rust/blockchain/target/debug/deps/byte_tools-6afe62cbafa852af.d: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_single.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_single.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_slice.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_slice.rs
+
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/lib.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_single.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_single.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_slice.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_slice.rs:
