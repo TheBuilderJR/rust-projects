@@ -1,0 +1,13 @@
+/Users/bobren/projects/rust/pong/target/debug/deps/quote-197343b6dfec11ec.rmeta: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/Users/bobren/projects/rust/pong/target/debug/deps/libquote-197343b6dfec11ec.rlib: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/Users/bobren/projects/rust/pong/target/debug/deps/quote-197343b6dfec11ec.d: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs:

@@ -1,0 +1,13 @@
+/Users/bobren/projects/rust/pong/target/debug/deps/gif-20baa60386f4aba7.rmeta: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/Users/bobren/projects/rust/pong/target/debug/deps/libgif-20baa60386f4aba7.rlib: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/Users/bobren/projects/rust/pong/target/debug/deps/gif-20baa60386f4aba7.d: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs:

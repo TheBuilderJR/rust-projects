@@ -1,0 +1,12 @@
+/Users/bobren/projects/rust/pong/target/debug/deps/bytemuck-460a61ceadf0eb24.rmeta: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/zeroable.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/pod.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/contiguous.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/offset_of.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/transparent.rs
+
+/Users/bobren/projects/rust/pong/target/debug/deps/libbytemuck-460a61ceadf0eb24.rlib: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/zeroable.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/pod.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/contiguous.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/offset_of.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/transparent.rs
+
+/Users/bobren/projects/rust/pong/target/debug/deps/bytemuck-460a61ceadf0eb24.d: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/zeroable.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/pod.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/contiguous.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/offset_of.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/transparent.rs
+
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/lib.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/zeroable.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/pod.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/contiguous.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/offset_of.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.0/src/transparent.rs:
