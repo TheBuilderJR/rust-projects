@@ -1,0 +1,1 @@
+/Users/bobren/projects/rust/pointers/target/debug/libpointers.rlib: /Users/bobren/projects/rust/pointers/src/cell.rs /Users/bobren/projects/rust/pointers/src/lib.rs /Users/bobren/projects/rust/pointers/src/rc.rs /Users/bobren/projects/rust/pointers/src/refcell.rs
