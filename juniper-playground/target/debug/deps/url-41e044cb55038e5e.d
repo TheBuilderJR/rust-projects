@@ -1,0 +1,13 @@
+/Users/bobren/projects/rust/juniper-playground/target/debug/deps/url-41e044cb55038e5e.rmeta: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/Users/bobren/projects/rust/juniper-playground/target/debug/deps/liburl-41e044cb55038e5e.rlib: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/Users/bobren/projects/rust/juniper-playground/target/debug/deps/url-41e044cb55038e5e.d: /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs:
+/Users/bobren/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs:
